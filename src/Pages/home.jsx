@@ -103,8 +103,8 @@ const Home = ()=>{
                         
                         <div className={styles.logos}>
 
-                        <img src="https://meesho.com/_next/static/images/google-play-button-1f2aa747a3eefa161840b04e057b31ac.png" alt="playstore" />
-                        <img src="https://meesho.com/_next/static/images/appstore-button-4b171cf04fe0557718dfd2cbf309c61d.png" alt="apple"/>
+                        <img src="https://images.meesho.com/images/pow/playstore-icon.png" alt="playstore" />
+                        <img src="https://images.meesho.com/images/pow/appstore-icon.png" alt="apple"/>
                         </div>
                     
                 </div>
